@@ -1,3 +1,11 @@
+#EXTGRP:MAGYAR
+#EXTINF:0,Sport 1 HU
+http://gr.seetv.cc/play/762/D70CC021CA87DF2/video.m3u8
+#EXTGRP:MAGYAR
+#EXTINF:0,Sport 2 HU
+http://gr.seetv.cc/play/774/D70CC021CA87DF2/video.m3u8
+
+
 #EXTINF:0,SPORT 2
 #EXTGRP:MAGYAR
 http://213.163.13.122:1559/udp/239.1.10.167:2000
